@@ -1,16 +1,27 @@
-## Hi there 👋
+#  Jair Maldonado | Cybersecurity Enthusiast | Continuously Learning  
 
-<!--
-**Jairmald/Jairmald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my hands-on **cybersecurity portfolio**!  
 
-Here are some ideas to get you started:
+Here you’ll find my **technical labs, reports, hackathons/CTFs, projects**, and **professional organizations** I participate in.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects  
+
+| Section | Description |
+|----------|--------------|
+| [Labs & Reports](./Labs-Reports) | Technical lab reports covering various cybersecurity topics — from ISO/IEC 27002 controls and Windows Server hardening to HackTheBox-style labs. |
+| [CTF Archive](./ctf-archive) | Writeups and tools from National Cyber League (NCL), TryHackMe, and other competitions. |
+| [Projects](./projects) | Automations, dashboards, and utilities developed for security operations and vulnerability management. |
+| [Professional Associations](./Professional-Associations) | Involvement in cybersecurity communities such as ISSA and other professional groups. |
+
+---
+
+## 🧾 About  
+
+I specialize in **blue-team security and vulnerability management**, with hands-on experience implementing secure configurations, performing risk assessments, and analyzing threats.  
+
+Outside of cybersecurity, I enjoy **reading shonen manga**, **working out**, and **mentoring others** in their professional development.  
+
+📫 **Contact Me:**  
+[LinkedIn](https://linkedin.com/in/jairmaldonado) | [Email](mailto:jairmyl1@email.com)
