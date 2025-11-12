@@ -11,7 +11,7 @@ Here you’ll find my **technical labs, reports, hackathons/CTFs, projects**, an
 | Section | Description |
 |----------|--------------|
 | [Labs & Reports](https://github.com/Jairmald/Labs-and-Reports) | Technical lab reports covering various cybersecurity topics — from ISO/IEC 27002 controls and Windows Server hardening to HackTheBox-style labs. |
-| [CTF Archive](./ctf-archive) | Writeups and tools from National Cyber League (NCL), TryHackMe, and other competitions. |
+| [Hackathons-CTF](https://github.com/Jairmald/Hackathons-CTF) | Writeups and tools from National Cyber League (NCL), TryHackMe, and other competitions. |
 | [Projects](./projects) | Automations, dashboards, and utilities developed for security operations and vulnerability management. |
 | [Professional Associations](./Professional-Associations) | Involvement in cybersecurity communities such as ISSA and other professional groups. |
 
