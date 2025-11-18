@@ -19,9 +19,8 @@ Here you'll find my **technical labs, reports, hackathons/CTFs, projects**, and 
 ```
 [+] Identity: Jair Maldonado
 [+] Focus: Blue-team security & vulnerability management
-[+] Skills: Secure configurations | Risk assessments | Threat analysis
+[+] Skills: Secure configurations | Risk assessments | Threat analysis | Risk mitigation
 [+] Status: Continuously learning & improving defenses
-[✓] Access granted.
 ```
 
 I specialize in **blue-team security and vulnerability management**, with hands-on experience implementing secure configurations, performing risk assessments, and analyzing threats.  
@@ -30,7 +29,7 @@ Outside of cybersecurity, I enjoy **reading shonen manga**, **working out**, and
 
 ---
 
-## 🚀 Featured Projects  
+##  Featured Projects  
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
