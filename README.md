@@ -43,7 +43,7 @@ Outside of cybersecurity, I enjoy **reading shonen manga**, **working out**, and
 
 | Section | Description |
 |----------|--------------|
-| [Labs & Reports](https://github.com/Jairmald/Labs-and-Reports) | 🔬 Technical lab reports covering various cybersecurity topics from different resources |
+| [Projects-and-Labs](https://github.com/Jairmald/Labs-and-Reports) | 🔬 Technical lab reports covering various cybersecurity topics from different resources |
 | [Hackathons-CTF](https://github.com/Jairmald/Hackathons-CTF) | 🏆 Writeups and tools from National Cyber League (NCL), HackTheBox, and other competitions |
 | [Professional Associations](https://github.com/Jairmald/Professional-Associations) | 🤝 Community involvement with ISSA and other cybersecurity organizations |
 
