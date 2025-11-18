@@ -23,14 +23,7 @@ Here you'll find my **technical labs, reports, hackathons/CTFs, projects**, and 
 [+] Status: Continuously learning & improving defenses
 ```
 
-I am an IT professional with hands-on experience in **risk mitigation, system hardening, vulnerability management, and security monitoring**. My expertise includes:
-
-- **Windows & Linux Security Hardening:** Implementing CIS and ISO/IEC 27002 standards, Active Directory hardening, and secure configuration management.  
-- **SIEM & Monitoring:** Deploying and configuring SIEM solutions, analyzing logs, and building actionable security dashboards.  
-- **Vulnerability Assessment & Incident Response:** Conducting OpenVAS scans, CVE remediation, and incident handling aligned with MITRE ATT&CK framework.  
-- **Cybersecurity Compliance & Policy:** Developing security policies, enforcing RBAC, and ensuring regulatory compliance.  
-
-I actively participate in professional cybersecurity communities, such as ISSA, to **stay current with emerging threats, share knowledge, and mentor the next generation of security professionals**.  
+I am an IT professional with hands-on experience in **risk mitigation, system hardening, vulnerability management, and security monitoring**. I actively participate in professional cybersecurity communities, such as ISSA, to **stay current with emerging threats, share knowledge, and mentor the next generation of security professionals**.  
 
 ---
 
@@ -40,7 +33,7 @@ Outside of cybersecurity, I enjoy **reading shonen manga**, **working out**, and
 
 ---
 
-##  Featured Projects  
+##  Featured Repos  
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
