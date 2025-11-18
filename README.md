@@ -13,7 +13,7 @@ Here you’ll find my **technical labs, reports, hackathons/CTFs, projects**, an
 | [Labs & Reports](https://github.com/Jairmald/Labs-and-Reports) | Technical lab reports covering various cybersecurity topics from different resources |
 | [Hackathons-CTF](https://github.com/Jairmald/Hackathons-CTF) | Writeups and tools from National Cyber League (NCL), HackTheBox, and other competitions. |
 | [Projects](https://github.com/Jairmald/Projects) | Automations, dashboards, and utilities developed for security operations and vulnerability management. |
-| [Professional Associations](https://github.com/Jairmald/Professional-Associations) | Involvement in cybersecurity communities such as ISSA, ACFE, CSA and other professional groups. |
+| [Professional Associations](https://github.com/Jairmald/Professional-Associations) | Involvement in cybersecurity communities such as ISSA |
 
 ---
 
