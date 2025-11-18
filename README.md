@@ -57,13 +57,13 @@ Outside of cybersecurity, I enjoy **reading shonen manga**, **working out**, and
 
 ---
 
-## 📡 Connect
+## Connect
 
 ```
 [*] Establishing secure connection...
 ```
 
-📫 **Contact Me:**  
+ **Contact Me:**  
 [LinkedIn](https://linkedin.com/in/jairmaldonado) | [Email](mailto:jairmyl1@email.com)
 
 ```
