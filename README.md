@@ -5,7 +5,7 @@ Welcome to my hands-on **cybersecurity portfolio**!
 Here you’ll find my **technical labs, reports, hackathons/CTFs, projects**, and **professional organizations** I participate in. 
 
 ---
-## J:\Users> whoami
+## User> whoami
 
 I specialize in **blue-team security and vulnerability management**, with hands-on experience implementing secure configurations, performing risk assessments, and analyzing threats.  
 
