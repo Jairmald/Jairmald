@@ -45,6 +45,7 @@ Outside of cybersecurity, I enjoy **reading shonen manga**, **working out**, and
 |----------|--------------|
 | [Projects-and-Labs](https://github.com/Jairmald/Projects-and-Labs) | 🔬 Technical lab reports covering various cybersecurity topics from different resources |
 | [Hackathons-CTF](https://github.com/Jairmald/Hackathons-CTF) | 🏆 Writeups and tools from National Cyber League (NCL), HackTheBox, and other competitions |
+| [AWS-Cloud-Institute-Projects](https://github.com/Jairmald/AWS-Cloud-Institute-Projects) | Projects and Labs from my AWS Cloud Institute program |
 | [Professional Associations](https://github.com/Jairmald/Professional-Associations) | 🤝 Community involvement with ISSA and other cybersecurity organizations |
 
 ---
